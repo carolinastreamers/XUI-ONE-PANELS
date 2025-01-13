@@ -1,0 +1,16 @@
+You need to have  Putty installed  on your computer to be able to connect to your  Server  via  SSH.
+Open  Putty  , enter  your server  's IP , Port 22  and enter. Enter  User  and  Password,  enter  Root mode  and paste the codes. 
+
+
+1- apt-get update
+2- apt-get upgrade
+3- wget «https://update.xui.one/XUI_1.5.12.zip» -O /tmp/XUI_1.5.12.zip
+4- cd /tmp
+5- apt install zip unzip -y ; unzip
+​​
+​​
+​​
+​ ​.tar.gz
+10- sh /tmp/install.sh
+Enter your panel  http://ipserver/xxxx
+Start setup 
