@@ -1,0 +1,17 @@
+Install XUI 1.3.12
+
+New Installation Instructions:
+wget "https://update.xui.one/XUI_1.3.12.zip" -O /tmp/XUI_1.3.12.zip
+
+Then extract and execute it using:
+cd /tmp
+unzip XUI_1.3.12.zip
+./install
+
+Main Server Update Instructions:
+wget "https://update.xui.one/XUI_1.3.12_UPDATE.zip" -O /tmp/XUI_1.3.12_UPDATE.zip
+
+Then extract and execute it using:
+cd /tmp
+unzip XUI_1.3.12_UPDATE.zip
+./update
