@@ -1,17 +1,3 @@
-Install XUI 1.3.12
+xui.one + crack work for Ubuntu 20.04 Ubuntu 22.04 and Ubuntu 24.04 for install
 
-New Installation Instructions:
-wget "https://update.xui.one/XUI_1.3.12.zip" -O /tmp/XUI_1.3.12.zip
-
-Then extract and execute it using:
-cd /tmp
-unzip XUI_1.3.12.zip
-./install
-
-Main Server Update Instructions:
-wget "https://update.xui.one/XUI_1.3.12_UPDATE.zip" -O /tmp/XUI_1.3.12_UPDATE.zip
-
-Then extract and execute it using:
-cd /tmp
-unzip XUI_1.3.12_UPDATE.zip
-./update
+sudo wget https://raw.githubusercontent.com/amidevous/xui.one/master/install.sh -O /root/install.sh && sudo bash /root/install.sh
